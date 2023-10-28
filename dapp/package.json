@@ -1,0 +1,12 @@
+{
+   "devDependencies": {
+      "lite-server": "^2.6.1"
+   },
+   "scripts": {
+      "start": "lite-server"
+   },
+   "dependencies": {
+      "kubo-rpc-client": "^3.0.1",
+      "web3": "^4.0.3"
+   }
+}
